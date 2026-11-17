@@ -1,0 +1,17 @@
+# Virtual environments
+.venv/
+.venv312/
+venv/
+
+# Data and caches (large, reproducible from the notebook)
+open-data/
+cache/
+*.pkl
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
